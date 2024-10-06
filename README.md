@@ -57,7 +57,7 @@ ahp-promethee-project/
 1. *Clone the repository:*
 
    \\\`bash
-   git clone https://github.com/yourusername/ahp-promethee-project.git
+   git clone https://github.com/anwarmoussaoui/ahp-promethee-project.git
    cd ahp-promethee-project
    \\\`
 
